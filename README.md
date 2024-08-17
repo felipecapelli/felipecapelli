@@ -1,7 +1,7 @@
 <h1 align="center">Hello, everyone 👋👋<br><br>😊I am Felipe Capelli, from Brazil.</h1>
 <h3 align="left">
 	🧑🏻‍💻I'm a QA (who also like to study developer's things🙃).<br>
-	💼I've started working as a QA since 2019, since then, I've been studying both QA and development tools/technologies.<br>
+	💼I've started working as a QA in 2019, since then, I've been studying both QA and development tools/technologies.<br>
 	🥹Hope you enjoy my content!!<br>
 	✉️Please, contat me if there are any questions
 </h3>
