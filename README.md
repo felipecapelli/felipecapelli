@@ -1,8 +1,10 @@
-<h1 align="center">Hey there 👋<br><br>😊My name is Felipe Capelli, I'm from Brazil.</h1>
-<h3 align="center">🧑🏻‍💻I'm a QA (who also like to study developer's things🙃).<br><br>
-💼I've started working as a QA since 2019, since then, I've been studying both QA and development tools/technologies.<br><br>
-🥹Hope you enjoy my content!!<br><br>
-✉️Please, contat me if there are any questions</h3>
+<h1 align="center">Hello, everyone 👋👋<br><br>😊I am Felipe Capelli, from Brazil.</h1>
+<h3 align="left">
+	🧑🏻‍💻I'm a QA (who also like to study developer's things🙃).<br>
+	💼I've started working as a QA since 2019, since then, I've been studying both QA and development tools/technologies.<br>
+	🥹Hope you enjoy my content!!<br>
+	✉️Please, contat me if there are any questions
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipecapelli&label=Profile%20views&color=0e75b6&style=flat" alt="felipecapelli" /> </p>
 
