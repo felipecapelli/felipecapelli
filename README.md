@@ -3,7 +3,7 @@
 	🧑🏻‍💻I'm a QA (who also likes to study developer's things🙃).<br>
 	💼I've started working as a QA in 2019, since then, I've been studying both QA and development tools/technologies.<br>
 	🥹Hope you enjoy my content!!<br>
-	✉️Please, contat me if there are any questions
+	✉️Please, contact me if there are any questions
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipecapelli&label=Profile%20views&color=0e75b6&style=flat" alt="felipecapelli" /> </p>
